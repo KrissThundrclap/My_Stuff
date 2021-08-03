@@ -1,4 +1,10 @@
 from random import randint
+# Hey  y'all
+#Krish Here 
+#I'm currently learning Git
+#Hope you liked this project
+
+
 
 #create a list of play options
 t = ["Rock", "Paper", "Scissors"]
